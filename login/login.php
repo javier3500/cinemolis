@@ -32,7 +32,7 @@
     </head>
     
     <body>
-    
+    <form action="">
         <div id="contenedor">
             
             <div id="contenedorcentrado">
@@ -62,6 +62,6 @@
                 </div>
             </div>
         </div>
-        
+        </form>
     </body>
 </html>

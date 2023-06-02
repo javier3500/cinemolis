@@ -1,0 +1,15 @@
+<?php
+function conexion(){
+    $servername = "localhost";
+    $database = "cinemolis";
+    $username = "root";
+    $password = "";
+    // Create connection
+    $conn = mysqli_connect($servername, $username, $password, $database);
+    return $conn;
+
+    
+}
+
+
+?>
